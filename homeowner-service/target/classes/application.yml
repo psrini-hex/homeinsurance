@@ -1,0 +1,10 @@
+
+server:
+  port: 8080
+
+spring:
+  datasource:
+    driver: com.mysql.jdbc.Driver
+    url: jdbc:mysql://homeowner.cleqvy6vtxpp.us-east-2.rds.amazonaws.com/homeinsurance
+    username: admin
+    password: admin1234
