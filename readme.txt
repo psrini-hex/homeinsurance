@@ -10,7 +10,8 @@ Please use the Batch files for
 Please configure AWS using installation-guide documents
 
 [1] HomeInsurance RDS MySQL Database Installion Guide.pdf
-[2] HomeInsurance Webfront EC2 Installation Guide.pdf
+[2] HomeInsurance Service ECS Deployment Guide.pdf
+[3] HomeInsurance Webfront EC2 Installation Guide.pdf
 
 Please run the Database DDL from database folder
 
